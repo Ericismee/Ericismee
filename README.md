@@ -5,6 +5,7 @@
 <div align="center">
   <h3>Hi, I'm Eric <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"></h3>
   <p><span style="font-style: italic;">Simplify everything.</span> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBleGhjZzZmMzhiVjdDOGYvZ2lmX2J5X2lkJnN0PXM/l0Exhcg6fC8b4V7C8/giphy.gif" width="20"></p>
+
 </div>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com? --> 
