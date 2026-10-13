@@ -1,52 +1,33 @@
-<!-- Banner -->
-
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:A855F7&height=200&section=header)  
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:A855F7&height=200&section=header)
 
 <div align="center">
-  <h3>Hi, I'm Eric <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"></h3>
-  <p><span style="font-style: italic;">Simplify everything.</span> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBleGhjZzZmMzhiVjdDOGYvZ2lmX2J5X2lkJnN0PXM/l0Exhcg6fC8b4V7C8/giphy.gif" width="20"></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ericismee&theme=default&border_radius=6)](https://github.com/Ericismee)
+  <h2>
+    Hi, I'm Eric
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand">
+  </h2>
+
+  <p><em>Simplify everything.</em> ✨</p>
+
+
+<div align="center">
+
+  <a href="https://github.com/Ericismee">
+    <img src="https://streak-stats.demolab.com/?user=Ericismee&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=A855F7&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D&timezone=Asia%2FHo_Chi_Minh" width="600" alt="Ericismee GitHub contribution streak">
+  </a>
+
+  <br><br>
+
+  <h3>📈 Activity</h3>
+
+  <a href="https://github.com/Ericismee">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ericismee&bg_color=0d1117&color=6ee7b7&line=a855f7&point=6ee7b7&area=true&area_color=a855f7&hide_border=true&radius=12&custom_title=Ericismee%27s%20Contribution%20Activity" width="95%" alt="Ericismee GitHub activity graph">
+  </a>
+
+  <br><br>
+
+  <p><em>Less complexity. More possibility.</em> 💜</p>
+
 </div>
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com? --> 
-<!-- font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Always+Learning;Software+Engineering+Student;Aspiring+.NET+Fullstack+Web+Developer;AI+%26+Computer+Vision+Enthusiast)](https://git.io/typing-svg) -->
-
-<!--  ## 🛠️ Tech Stack  
-### 🌐 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
-### ⚙️ Backend  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) s
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
-
-### 🗄️ Database  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-
-### 🔧 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
--->
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meranh05&layout=compact&v=1)
-
-
-
-
-
-
- 
-
-
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:6EE7B7&height=110&section=footer)
