@@ -18,16 +18,4 @@
 
   <br><br>
 
-  <h3>📈 Activity</h3>
 
-  <a href="https://github.com/Ericismee">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ericismee&bg_color=0d1117&color=6ee7b7&line=a855f7&point=6ee7b7&area=true&area_color=a855f7&hide_border=true&radius=12&custom_title=Ericismee%27s%20Contribution%20Activity" width="95%" alt="Ericismee GitHub activity graph">
-  </a>
-
-  <br><br>
-
-  <p><em>Less complexity. More possibility.</em> 💜</p>
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:6EE7B7&height=110&section=footer)
