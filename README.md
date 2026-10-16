@@ -16,7 +16,7 @@
     <td width="60%" align="center" valign="top">
       <h3>📊 GitHub Stats</h3>
       <a href="https://github.com/Ericismee">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ericismee&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=6EE7B7&text_color=8B949E&rank_icon=github" width="100%" alt="Eric's GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ericismee&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=6EE7B7&text_color=8B949E&" width="100%" alt="Eric's GitHub stats">
       </a>
       <br>
       <a href="https://github.com/Ericismee">
