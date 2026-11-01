@@ -1,4 +1,3 @@
-
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:A855F7&height=120&section=header)
 
 <div align="center">
@@ -14,10 +13,12 @@
 <table>
   <tr>
     <td width="60%" align="center" valign="top">
-      <h3>📊 GitHub Stats</h3>
+      <!-- Đã ẩn bảng Stats theo yêu cầu -->
+      <!-- 
       <a href="https://github.com/Ericismee">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ericismee&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=6EE7B7&text_color=8B949E&" width="100%" alt="Eric's GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ericismee&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=6EE7B7&text_color=8B949E" width="100%" alt="Eric's GitHub stats">
       </a>
+      -->
       <br>
       <a href="https://github.com/Ericismee">
         <img src="https://streak-stats.demolab.com/?user=Ericismee&hide_border=true&background=00000000&ring=A855F7&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=8B949E&currStreakNum=A855F7&sideNums=A855F7&dates=8B949E&stroke=30363D&timezone=Asia%2FHo_Chi_Minh" width="100%" alt="Eric's GitHub contribution streak">
@@ -34,5 +35,7 @@
     </td>
   </tr>
 </table>
+
 <!--
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:6EE7B7&height=70&section=footer)
+-->
