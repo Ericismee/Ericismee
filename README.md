@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:A855F7&height=48&section=header)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:6EE7B7,100:A855F7&height=20&section=header)
 
 <p align="center">
   <strong>Hi, I'm Eric</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Waving hand"><br>
@@ -8,11 +8,11 @@
 <table align="center">
   <tr>
     <td width="60%" align="center" valign="top">
-      <strong>📊 GitHub Stats</strong><br>
+      <strong>📊 GitHub Activity</strong><br>
       <a href="https://github.com/Ericismee">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ericismee&amp;theme=github_dark&amp;hide_logo=true&amp;bg_color=151321&amp;border_color=332849&amp;title_color=6EE7B7&amp;text_color=E6EDF3&amp;icon_color=A855F7&amp;animation=rgb-soft">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ericismee&amp;theme=github&amp;hide_logo=true&amp;bg_color=FFFFFF&amp;border_color=E5E7EB&amp;title_color=0F766E&amp;text_color=24292F&amp;icon_color=7C3AED&amp;animation=stagger" width="238" alt="Eric's GitHub stats">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ericismee&amp;theme=github_dark&amp;hide_logo=true&amp;bg_color=151321&amp;border_color=332849&amp;title_color=6EE7B7&amp;text_color=E6EDF3&amp;icon_color=A855F7">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ericismee&amp;theme=github&amp;hide_logo=true&amp;bg_color=FFFFFF&amp;border_color=E5E7EB&amp;title_color=0F766E&amp;text_color=24292F&amp;icon_color=7C3AED" width="220" alt="Eric's GitHub stats">
         </picture>
       </a>
       <br>
