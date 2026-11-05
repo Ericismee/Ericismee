@@ -41,9 +41,9 @@
 </table>
 
 <p align="center">
-  <strong>🟡 Contribution Pac-Man</strong><br>
+  <strong>🎮 Contribution Breakout</strong><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ericismee/Ericismee/output-pacman/pacman-contribution-graph-dark.svg">
-    <img src="https://raw.githubusercontent.com/Ericismee/Ericismee/output-pacman/pacman-contribution-graph.svg" width="760" alt="Pac-Man eating Eric's GitHub contribution squares">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ericismee/Ericismee/output-pacman/breakout-contribution-graph-dark.svg">
+    <img src="https://raw.githubusercontent.com/Ericismee/Ericismee/output-pacman/breakout-contribution-graph.svg" width="760" alt="Breakout ball bouncing through Eric's GitHub contribution squares">
   </picture>
 </p>
