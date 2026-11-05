@@ -31,4 +31,10 @@
   </tr>
 </table>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:6EE7B7&height=70&section=footer)
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ericismee/Ericismee/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Ericismee/Ericismee/output/github-contribution-grid-snake.svg" width="760" alt="Animated snake eating Eric's GitHub contribution squares">
+  </picture>
+</p>
