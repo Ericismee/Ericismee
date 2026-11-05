@@ -1,4 +1,4 @@
-name: Generate Pac-Man
+name: Generate Breakout
 on:
   push:
     branches: [main]
@@ -17,12 +17,12 @@ jobs:
       - uses: abozanona/pacman-contribution-graph@294c47eff28a41339a279107ae771b5fa020037a
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: pacman
+          games: breakout
           hide_month_labels: 'true'
       - uses: actions/upload-artifact@v4
         with:
-          name: pacman-svg
-          path: dist/pacman-contribution-graph*.svg
+          name: breakout-svg
+          path: dist/breakout-contribution-graph*.svg
           if-no-files-found: error
   publish:
     needs: generate
@@ -32,7 +32,7 @@ jobs:
     steps:
       - uses: actions/download-artifact@v4
         with:
-          name: pacman-svg
+          name: breakout-svg
           path: dist
       - name: Publish the two SVGs
         env:
@@ -41,7 +41,7 @@ jobs:
           set -euo pipefail
           gh auth setup-git
           remote="https://github.com/$GITHUB_REPOSITORY.git"
-          for name in pacman-contribution-graph.svg pacman-contribution-graph-dark.svg; do
+          for name in breakout-contribution-graph.svg breakout-contribution-graph-dark.svg; do
             test -s "dist/$name"
             test ! -L "dist/$name"
           done
@@ -54,8 +54,8 @@ jobs:
           else
             test "$?" -eq 2
           fi
-          cp dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg publish/
-          git -C publish add -- pacman-contribution-graph.svg pacman-contribution-graph-dark.svg
+          cp dist/breakout-contribution-graph.svg dist/breakout-contribution-graph-dark.svg publish/
+          git -C publish add -- breakout-contribution-graph.svg breakout-contribution-graph-dark.svg
           if git -C publish diff --cached --quiet; then exit 0; fi
-          git -C publish -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Refresh Pac-Man contribution graph'
+          git -C publish -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Refresh Breakout contribution graph'
           git -C publish push origin HEAD:refs/heads/output-pacman
