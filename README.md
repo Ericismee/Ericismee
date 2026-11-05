@@ -1,13 +1,11 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:A855F7&height=84&section=header)
-
+ <!-- ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:A855F7&height=84&section=header) -->
 <div align="center">
-  <h2>
+  <h3>
     Hi, I'm Eric
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Waving hand">
-  </h2>
+  </h3>
   <p><em>Simplify everything.</em> ✨</p>
 </div>
-
 <table align="center">
   <tr>
     <td width="60%" align="center" valign="top">
