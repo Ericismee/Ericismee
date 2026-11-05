@@ -15,14 +15,14 @@
       <a href="https://github.com/Ericismee">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ericismee&amp;theme=github_dark&amp;hide_logo=true&amp;bg_color=151321&amp;border_color=332849&amp;title_color=6EE7B7&amp;text_color=E6EDF3&amp;icon_color=A855F7&amp;animation=rgb-soft">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ericismee&amp;theme=github&amp;hide_logo=true&amp;bg_color=F8F5FF&amp;border_color=E5D9F8&amp;title_color=0F766E&amp;text_color=24292F&amp;icon_color=7C3AED&amp;animation=stagger" width="260" alt="Eric's GitHub stats">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ericismee&amp;theme=github&amp;hide_logo=true&amp;bg_color=FBFFFD&amp;border_color=D5E9E1&amp;title_color=0F766E&amp;text_color=24292F&amp;icon_color=7C3AED&amp;animation=stagger" width="260" alt="Eric's GitHub stats">
         </picture>
       </a>
       <br>
       <a href="https://github.com/Ericismee#contributions">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Ericismee&amp;hide_border=true&amp;background=00000000&amp;ring=A855F7&amp;fire=6EE7B7&amp;currStreakLabel=6EE7B7&amp;sideLabels=8B949E&amp;currStreakNum=A855F7&amp;sideNums=A855F7&amp;dates=8B949E&amp;stroke=30363D&amp;timezone=Asia%2FHo_Chi_Minh">
-          <img src="https://streak-stats.demolab.com/?user=Ericismee&amp;hide_border=true&amp;background=00000000&amp;ring=7C3AED&amp;fire=0F766E&amp;currStreakLabel=0F766E&amp;sideLabels=475569&amp;currStreakNum=6D28D9&amp;sideNums=6D28D9&amp;dates=475569&amp;stroke=D8DEE4&amp;timezone=Asia%2FHo_Chi_Minh" width="350" alt="Eric's GitHub contribution streak">
+          <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ericismee&amp;hide_border=true&amp;background=00000000&amp;ring=7C3AED&amp;fire=0F766E&amp;currStreakLabel=0F766E&amp;sideLabels=475569&amp;currStreakNum=6D28D9&amp;sideNums=6D28D9&amp;dates=475569&amp;stroke=D8DEE4&amp;timezone=Asia%2FHo_Chi_Minh" width="350" alt="Eric's GitHub contribution streak">
         </picture>
       </a>
     </td>
