@@ -7,8 +7,11 @@
 
 <table align="center">
   <tr>
-    <td width="60%" align="center" valign="top">
-      <strong>📊 GitHub Activity</strong><br>
+    <th width="60%" align="center">📊 GitHub Activity</th>
+    <th width="40%" align="center">🧠 My Knowledge</th>
+  </tr>
+  <tr>
+    <td width="60%" align="center" valign="middle">
       <!-- GitHub Stats
       <a href="https://github.com/Ericismee">
         <picture>
@@ -25,14 +28,13 @@
         </picture>
       </a>
     </td>
-    <td width="40%" align="center" valign="top">
-      <strong>🧠 My Knowledge</strong><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,git,github,vscode&amp;perline=6" width="212" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Node.js, Python, Git, GitHub, VS Code">
+    <td width="40%" align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,git,github,vscode&amp;perline=6" width="228" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Node.js, Python, Git, GitHub, VS Code">
       <br>
       <a href="https://github.com/Ericismee?tab=repositories">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Ericismee&amp;layout=compact&amp;langs_count=5&amp;card_width=255&amp;theme=dark_github&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=6EE7B7&amp;text_color=C9D1D9">
-          <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ericismee&amp;layout=compact&amp;langs_count=5&amp;card_width=255&amp;theme=light_github&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0F766E&amp;text_color=24292F" width="255" alt="Eric's top languages">
+          <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ericismee&amp;layout=compact&amp;langs_count=5&amp;card_width=255&amp;theme=light_github&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0F766E&amp;text_color=24292F" width="228" alt="Eric's top languages">
         </picture>
       </a>
     </td>
