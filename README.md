@@ -13,7 +13,7 @@
     <td width="60%" align="center" valign="top">
       <h3>📊 GitHub Stats</h3>
       <a href="https://github.com/Ericismee">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ericismee&amp;theme=github_dark&amp;hide_logo=true&amp;bg_color=151321&amp;border_color=332849&amp;title_color=6EE7B7&amp;text_color=E6EDF3&amp;icon_color=A855F7&amp;animation=stagger" width="260" alt="Eric's GitHub stats">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ericismee&amp;theme=github_dark&amp;hide_logo=true&amp;bg_color=151321&amp;border_color=332849&amp;title_color=6EE7B7&amp;text_color=E6EDF3&amp;icon_color=A855F7&amp;animation=rgb-soft" width="260" alt="Eric's GitHub stats">
       </a>
       <br>
       <a href="https://github.com/Ericismee#contributions">
