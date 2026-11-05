@@ -1,4 +1,4 @@
- <!-- ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:A855F7&height=84&section=header) -->
+ ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:A855F7&height=84&section=header) 
 <div align="center">
   <h3>
     Hi, I'm Eric
