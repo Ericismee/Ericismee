@@ -1,0 +1,58 @@
+name: Update GitHub profile
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 18 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-assets
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/snake.svg?color_snake=%237C3AED
+            profile/snake-dark.svg?palette=github-dark&color_snake=%23A855F7
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&hide_title=true&hide_rank=true&theme=github_dark&hide_border=true&icon_color=6EE7B7"
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=6&card_width=260&theme=github_dark&hide_border=true&hide_title=true"
+          path: profile/top-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Save generated images
+        run: |
+          git add profile/snake.svg profile/snake-dark.svg profile/stats.svg profile/top-languages.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -m "Update profile graphics"
+          git push
