@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:6EE7B7,100:A855F7&height=20&section=header)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:A855F7&height=84&section=header)
 
 <p align="center">
   <strong>Hi, I'm Eric</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Waving hand"><br>
@@ -9,6 +9,7 @@
   <tr>
     <td width="60%" align="center" valign="top">
       <strong>📊 GitHub Activity</strong><br>
+      <!-- GitHub Stats
       <a href="https://github.com/Ericismee">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ericismee&amp;theme=github_dark&amp;hide_logo=true&amp;bg_color=151321&amp;border_color=332849&amp;title_color=6EE7B7&amp;text_color=E6EDF3&amp;icon_color=A855F7">
@@ -16,6 +17,7 @@
         </picture>
       </a>
       <br>
+      -->
       <a href="https://github.com/Ericismee#contributions">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Ericismee&amp;hide_border=true&amp;background=00000000&amp;ring=A855F7&amp;fire=6EE7B7&amp;currStreakLabel=6EE7B7&amp;sideLabels=8B949E&amp;currStreakNum=A855F7&amp;sideNums=A855F7&amp;dates=8B949E&amp;stroke=30363D&amp;timezone=Asia%2FHo_Chi_Minh">
