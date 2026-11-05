@@ -8,31 +8,30 @@
   <p><em>Simplify everything.</em> ✨</p>
 </div>
 
-<br>
-
-<table>
+<table align="center">
   <tr>
     <td width="60%" align="center" valign="top">
+      <h3>📊 GitHub Stats</h3>
       <a href="https://github.com/Ericismee">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ericismee&amp;theme=github_dark&amp;hide_logo=true&amp;bg_color=151321&amp;border_color=332849&amp;title_color=6EE7B7&amp;text_color=E6EDF3&amp;icon_color=A855F7&amp;animation=stagger" width="260" alt="Eric's GitHub stats">
-      </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ericismee&amp;theme=github_dark&amp;hide_logo=true&amp;bg_color=151321&amp;border_color=332849&amp;title_color=6EE7B7&amp;text_color=E6EDF3&amp;icon_color=A855F7&amp;animation=stagger"
+    width="260"
+    alt="Eric's GitHub stats">
+</a>
       <br>
-      <a href="https://github.com/Ericismee">
-        <img src="https://streak-stats.demolab.com/?user=Ericismee&hide_border=true&background=00000000&ring=A855F7&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=8B949E&currStreakNum=A855F7&sideNums=A855F7&dates=8B949E&stroke=30363D&timezone=Asia%2FHo_Chi_Minh" width="100%" alt="Eric's GitHub contribution streak">
+      <a href="https://github.com/Ericismee#contributions">
+        <img src="https://streak-stats.demolab.com/?user=Ericismee&amp;hide_border=true&amp;background=00000000&amp;ring=A855F7&amp;fire=6EE7B7&amp;currStreakLabel=6EE7B7&amp;sideLabels=8B949E&amp;currStreakNum=A855F7&amp;sideNums=A855F7&amp;dates=8B949E&amp;stroke=30363D&amp;timezone=Asia%2FHo_Chi_Minh" width="380" alt="Eric's GitHub contribution streak">
       </a>
     </td>
     <td width="40%" align="center" valign="top">
       <h3>🧠 My Knowledge</h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,git,github,vscode&perline=4" width="210" alt="Technology icons">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,git,github,vscode&amp;perline=4" width="196" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Node.js, Python, Git, GitHub, VS Code">
       <br><br>
-      <a href="https://github.com/Ericismee">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericismee&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8B949E&langs_count=6" width="100%" alt="Eric's most used languages">
+      <a href="https://github.com/Ericismee?tab=repositories">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ericismee&amp;layout=compact&amp;langs_count=5&amp;card_width=255&amp;theme=github_dark&amp;hide_border=true" width="255" alt="Eric's top languages">
       </a>
     </td>
   </tr>
 </table>
 
-<!--
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:6EE7B7&height=70&section=footer)
--->
